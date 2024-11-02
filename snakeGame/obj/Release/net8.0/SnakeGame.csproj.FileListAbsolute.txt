@@ -1,0 +1,15 @@
+C:\Users\camila\source\repos\snakeGame\snakeGame\bin\Release\net8.0\SnakeGame.exe
+C:\Users\camila\source\repos\snakeGame\snakeGame\bin\Release\net8.0\SnakeGame.deps.json
+C:\Users\camila\source\repos\snakeGame\snakeGame\bin\Release\net8.0\SnakeGame.runtimeconfig.json
+C:\Users\camila\source\repos\snakeGame\snakeGame\bin\Release\net8.0\SnakeGame.dll
+C:\Users\camila\source\repos\snakeGame\snakeGame\bin\Release\net8.0\SnakeGame.pdb
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\SnakeGame.AssemblyInfo.cs
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\SnakeGame.sourcelink.json
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\SnakeGame.dll
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\refint\SnakeGame.dll
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\SnakeGame.pdb
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\SnakeGame.genruntimeconfig.cache
+C:\Users\camila\source\repos\snakeGame\snakeGame\obj\Release\net8.0\ref\SnakeGame.dll

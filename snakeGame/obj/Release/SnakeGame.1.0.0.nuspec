@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SnakeGame</id>
+    <version>1.0.0</version>
+    <authors>SnakeGame</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="0f4797af6a1786534f10873eeabe3bf59c46cb87" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\camila\source\repos\snakeGame\snakeGame\bin\Release\net8.0\SnakeGame.runtimeconfig.json" target="lib\net8.0\SnakeGame.runtimeconfig.json" />
+    <file src="C:\Users\camila\source\repos\snakeGame\snakeGame\bin\Release\net8.0\SnakeGame.dll" target="lib\net8.0\SnakeGame.dll" />
+  </files>
+</package>

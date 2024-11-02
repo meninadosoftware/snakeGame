@@ -17,7 +17,7 @@ Clone o repositório:
 bash
 Copiar código
 git clone https://github.com/meninadosoftware/snakeGame.git
-cd console-snake-game
+cd  snakeGame
 Compile o projeto:
 
 bash

@@ -44,15 +44,24 @@ Linguagem: C#
 Ambiente: Console
 Framework: .NET Core/SDK
 Estrutura do Código
-Main(): Inicializa o jogo e controla o loop principal.
-CaptureInput(): Monitora as teclas pressionadas para definir a direção da cobra.
-Draw(): Desenha o campo de jogo, a cobra e a comida no console.
-Update(): Atualiza a posição da cobra e verifica colisões e condições de fim de jogo.
-GenerateFood(): Gera a comida em uma posição aleatória, evitando a posição atual da cobra.
+Main(): 
+Inicializa o jogo e controla o loop principal.
+CaptureInput(): 
+Monitora as teclas pressionadas para definir a direção da cobra.
+Draw():
+Desenha o campo de jogo, a cobra e a comida no console.
+Update():
+Atualiza a posição da cobra e verifica colisões e condições de fim de jogo.
+GenerateFood():
+Gera a comida em uma posição aleatória, evitando a posição atual da cobra.
 Melhorias Futuras
 Algumas ideias de melhorias para o jogo:
 
-Ajustar dificuldade: Aumente a velocidade da cobra conforme o jogador avança.
-Adicione níveis: À medida que sua pontuação aumenta, altere o layout ou adicione obstáculos.
-Salvar pontuações: use um arquivo de texto ou um banco de dados simples para registrar as pontuações mais altas.
-Modo multijogador: permite que dois jogadores joguem juntos usando controles diferentes.
+Ajustar dificuldade: 
+Aumente a velocidade da cobra conforme o jogador avança.
+Adicione níveis: 
+À medida que sua pontuação aumenta, altere o layout ou adicione obstáculos.
+Salvar pontuações: 
+use um arquivo de texto ou um banco de dados simples para registrar as pontuações mais altas.
+Modo multijogador: 
+permite que dois jogadores joguem juntos usando controles diferentes.

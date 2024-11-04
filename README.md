@@ -1,26 +1,34 @@
-🐍 Console Snake Game
+🐍 Snake Game
+
+
+
 Este é um jogo Snake simples desenvolvido em C#, jogado no console. A cobra se move pelo campo, comendo a comida que aparece aleatoriamente. Cada vez que a cobra come, ela cresce, e o jogador ganha pontos. O jogo termina se a cobra bater nas paredes ou em si mesma.
 
 📋 Índice
+
 Pré-requisitos
+
 Instalação e Execução
+
 Como Jogar
+
 Tecnologias Utilizadas
+
 Estrutura do Código
+
 Melhorias Futuras
+
 Créditos
 Pré-requisitos
 .NET SDK: É necessário o .NET SDK instalado na máquina para compilar e executar o jogo. Você pode fazer o download em dotnet.microsoft.com.
 Instalação e Execução
 Clone o repositório:
 
-bash
 Copiar código
 git clone https://github.com/meninadosoftware/snakeGame.git
 cd  snakeGame
 Compile o projeto:
 
-bash
 Copiar código
 dotnet build
 Execute o jogo:

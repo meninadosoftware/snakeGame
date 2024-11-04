@@ -33,16 +33,28 @@ Copiar código
 dotnet build
 Execute o jogo:
 
-bash
+
 Copiar código
 dotnet run
-Como Jogar
-Setas: Use as setas do teclado para controlar a direção da cobra.
 
-Seta para cima: Move a cobra para cima.
-Seta para baixo: Move a cobra para baixo.
-Seta para esquerda: Move a cobra para a esquerda.
-Seta para direita: Move a cobra para a direita.
+Como Jogar
+
+Setas: 
+
+Use as setas do teclado para controlar a direção da cobra.
+
+Seta para cima: 
+Move a cobra para cima.
+
+Seta para baixo:
+Move a cobra para baixo.
+
+Seta para esquerda: 
+Move a cobra para a esquerda.
+
+Seta para direita: 
+Move a cobra para a direita.
+
 Objetivo: O objetivo é comer a comida representada pelo caractere O. Cada vez que a cobra come, ela cresce e sua pontuação aumenta.
 
 Game Over: O jogo termina se a cobra colidir com as bordas da tela ou com o próprio corpo.
@@ -52,6 +64,8 @@ Linguagem: C#
 Ambiente: Console
 Framework: .NET Core/SDK
 Estrutura do Código
+
+
 Main(): 
 Inicializa o jogo e controla o loop principal.
 CaptureInput(): 
